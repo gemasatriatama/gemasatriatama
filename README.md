@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gema Satria Tama</h1>
-- 🌱 I’m currently learning **C++, C#, Python**
 
 <p align="left">
 </p>
